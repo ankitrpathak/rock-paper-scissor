@@ -9,3 +9,5 @@ To play the game, follow these steps:
 3. The computer will randomly generate a choice (rock, paper, or scissors) and display it on the screen.
 4. The game will compare the user's choice with the computer's choice and determine the winner.
 5. The scores will be updated and displayed on the screen.
+
+## You can also get access to ths game through this [link](https://ankitrpathak.github.io/rock-paper-scissor/)
