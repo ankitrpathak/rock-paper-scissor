@@ -10,4 +10,4 @@ To play the game, follow these steps:
 4. The game will compare the user's choice with the computer's choice and determine the winner.
 5. The scores will be updated and displayed on the screen.
 
-## You can also get access to ths game through this [link](https://ankitrpathak.github.io/rock-paper-scissor/)
+## You can also get access to the game through this [link](https://ankitrpathak.github.io/rock-paper-scissor/)
